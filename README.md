@@ -32,6 +32,13 @@ Telegram交流群：[@CMLiussss](https://t.me/CMLiussss)
 - 通过提交虚假的节点配置给订阅服务，避免节点配置信息泄露。
 - 另外，您也可以选择自行部署 [WorkerVless2sub 订阅生成服务](https://github.com/cmliu/WorkerVless2sub)，这样既可以利用订阅生成器的便利。
 
+- ## 💡 部署前混淆代码  用 https://obfuscator.io/#code
+    参数选择：
+Options Preset：High  ，  Identifier Names Generator：  Mangled Shuflled
+Self Defending: 不选，     Debug protection: 不选
+String Array Wrappers Count: 2 ,   String Array Wrappers Parameters Maximum Count:  2
+其它项默认。
+
 ## 💡 如何使用?
 ### ⚙️ Workers 部署方法 [视频教程](https://www.youtube.com/watch?v=MBlAqYajVSY&t=169s)
 
